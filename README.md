@@ -52,16 +52,17 @@ An automated computer vision system that captures vehicle images, detects and cr
 
 ---
 
-## Milestone Plan
 
-| Phase | Goal | Milestone | 16-Week Term | 10-Week Term |
-|---|---|---|---|---|
-| **1. Blueprint** | Plan approved | Midterm submitted | Week 10 | Week 5 |
-| **2. First Working Demo** | Pretrained model runs end-to-end on sample images | Pipeline functional | Week 11 | Week 6 |
-| **3. Make It Yours** | Integrate dataset & custom logic | System solves ALPR problem | Weeks 12–13 | Weeks 7–8 |
-| **4. Improve & Measure** | Test, tune & record metrics | Benchmark results recorded | Week 14 | Week 9 |
-| **5. Package & Present** | Final demo video, docs & presentation | Final project submitted | Week 15 | Week 10 |
+## Milestone Schedule
 
+| Step | Goal | Schedule |
+|---|---|---|
+| **01** | Submit proposal, outline project architecture, and create GitHub repository | Week 8 |
+| **02** | Run a pretrained YOLO model end-to-end on a few license-plate images | Week 9 |
+| **03** | Prepare Kaggle dataset, validate raw images, and produce annotated output images | Week 10 |
+| **04** | Fine-tune YOLO, training curves, and implement bounding box cropping pipeline | Week 11 & 12 |
+| **05** | Testing on held-out test set, record mAP@50, precision, and inference time | Week 13 & 14 |
+| **06** | Record demo, complete README, finalize presentation slides, and submit Final | Week 15 |
 ---
 
 ## Top Risks & Mitigations
