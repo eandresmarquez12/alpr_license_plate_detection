@@ -3,10 +3,10 @@ ITAI 1378 Midterm Blueprint - Automated License Plate Recognition System
 # Automatic License Plate Recognition (ALPR) System
 
 ## Team Members
-* **Edwin Marquez**
-* **Chris Roy**
-* **Unnati Shakya**
-* **Njeh Ababio**
+* **Edwin Marquez** ([@eandresmarquez12](https://github.com/eandresmarquez12))
+* **Chris Roy** ([@ChrisRoyHCC](https://github.com/ChrisRoyHCC))
+* **Unnati Shakya** ([@unnatishakya](https://github.com/unnatishakya))
+* **Njeh Ababio** ([@NjehAbabio](https://github.com/NjehAbabio))
 
 ---
 
